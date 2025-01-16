@@ -19,7 +19,7 @@ function App() {
         <div className="flex items-center gap-2">
           <Wallet className="w-6 h-6 text-emerald-400" />
           <h1 className="text-xl font-bold">DeFi Monitor</h1>
-          <span className="bg-emerald-500/10 text-emerald-400 text-xs px-2 py-1 rounded">v1.0.0</span>
+          <span className="bg-emerald-500/10 text-emerald-400 text-xs px-2 py-1 rounded">v.1.0</span>
         </div>
         <div className="flex items-center gap-4">
           <div className="flex items-center gap-2">
